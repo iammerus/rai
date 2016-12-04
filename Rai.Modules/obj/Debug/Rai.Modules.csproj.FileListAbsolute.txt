@@ -1,0 +1,6 @@
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai.Modules\obj\Debug\Rai.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai.Modules\bin\Debug\Rai.Modules.dll.config
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai.Modules\bin\Debug\Rai.Modules.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai.Modules\bin\Debug\Rai.Modules.pdb
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai.Modules\obj\Debug\Rai.Modules.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai.Modules\obj\Debug\Rai.Modules.pdb
