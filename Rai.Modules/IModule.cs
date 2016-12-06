@@ -28,7 +28,6 @@ namespace Rai.Modules
         /// <summary>
         /// Runs the action of the module
         /// </summary>
-        /// <param name="app">Instance of Rai</param>
-        void Run(ICore app);
+        void Run();
     }
 }

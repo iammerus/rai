@@ -1,0 +1,106 @@
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Rai.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Rai.pdb
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\ejml-0.23.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.Runtime.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\javax.json.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\joda-time.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\jollyday.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\protobuf.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Rai.Modules.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\slf4j-api.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\slf4j-simple.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\stanford-corenlp-3.7.0.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\xom.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Rai.Modules.pdb
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\obj\x64\Debug\Rai.csprojResolveAssemblyReference.cache
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\obj\x64\Debug\Rai.dll
+C:\Users\Melvin\documents\visual studio 2015\Projects\Rai\Rai\obj\x64\Debug\Rai.pdb
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Rai.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Rai.pdb
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\ejml-0.23.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.Runtime.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\javax.json.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\joda-time.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\jollyday.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\protobuf.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Rai.Modules.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\slf4j-api.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\slf4j-simple.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\stanford-corenlp-3.7.0.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\xom.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Rai.Modules.pdb
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\bin\x64\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\obj\x64\Debug\Rai.csprojResolveAssemblyReference.cache
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\obj\x64\Debug\Rai.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai\obj\x64\Debug\Rai.pdb

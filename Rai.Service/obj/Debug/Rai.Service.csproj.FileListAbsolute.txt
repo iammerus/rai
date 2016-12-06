@@ -1,0 +1,7 @@
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai.Service\bin\Debug\Rai.Service.exe.config
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai.Service\bin\Debug\Rai.Service.exe
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai.Service\bin\Debug\Rai.Service.pdb
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai.Service\bin\Debug\Quartz.dll
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai.Service\obj\Debug\Rai.Service.csprojResolveAssemblyReference.cache
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai.Service\obj\Debug\Rai.Service.exe
+C:\Users\Melvin\Projects\.NET Projects\Rai\Rai.Service\obj\Debug\Rai.Service.pdb
